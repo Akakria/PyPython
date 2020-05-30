@@ -1,6 +1,6 @@
 Author: Artturi Kakriainen
 
-PyPython is a classic snake game, written in python. My first proper programming project outside of schoolwork
+PyPython is a classic snake game, written in python(3.7.3). My first proper programming project outside of schoolwork
 
 Test:
 
