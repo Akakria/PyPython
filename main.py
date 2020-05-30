@@ -1,6 +1,6 @@
 #Author:        Artturi Kakriainen
 #File:          main.py
-#Description:   Classic snake game
+#Description:   Driver code for the program
 
 from keyboard import get_hotkey_name, send
 from time import perf_counter
