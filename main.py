@@ -1,5 +1,5 @@
 #Author:        Artturi Kakriainen
-#File:          main.py
+#File:          main.py 
 #Description:   Driver code for the program
 
 from keyboard import get_hotkey_name, send
