@@ -1,4 +1,5 @@
-#Python set cursor position in windows terminal
+#File:          cursorManager.py
+#Description:   Manage cursor position in console
 
 ###################################################################
 #https://rosettacode.org/wiki/Terminal_control/Cursor_positioning
